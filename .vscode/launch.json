@@ -25,7 +25,7 @@
             "type": "cortex-debug",
             "servertype": "jlink",
             "svdFile": "${workspaceRoot}/scripts/STM32F429.svd",
-            "device": "STM32F103RB",
+            "device": "STM32F429ZI",
             "interface": "swd"
         }
     ]
